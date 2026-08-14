@@ -39,23 +39,18 @@
     <animate attributeName="opacity" values="0.4;0.85;0.4" dur="6s" repeatCount="indefinite"/>
   </circle>
 
-  <g class="mono" fill="url(#portrait)" font-size="20" font-weight="600">
-    <text x="112" y="145">              .-''''''-.</text>
-    <text x="112" y="170">           .-'  _    _  '-.</text>
-    <text x="112" y="195">          /    / \  / \    \</text>
-    <text x="112" y="220">         |     | o  o |     |</text>
-    <text x="112" y="245">         |     |  /\  |     |</text>
-    <text x="112" y="270">          \     \ -- /     /</text>
-    <text x="112" y="295">           '._   '=='   _.'</text>
-    <text x="112" y="320">              '-.__.-'</text>
-    <text x="112" y="345">             .-||||||-.</text>
-    <text x="112" y="370">          .-'  ||||||  '-.</text>
-    <text x="112" y="395">         /   .-||||||-.   \</text>
-    <text x="112" y="420">        /___/  | DEV |  \___\</text>
-    <text x="112" y="445">          /    |_____|    \</text>
-    <text x="112" y="470">         /_____/     \_____\</text>
-    <text x="112" y="495">        [____  &lt;/CODE&gt;  ____]</text>
-    <text x="112" y="520">             /_/   \_\</text>
+  <g class="mono" fill="url(#portrait)" font-size="15" font-weight="600" xml:space="preserve">
+    <text x="58" y="170">⣿⣿⡅⣻⡿⢿⣿⣿⣿⡿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠿⢿⣿⡇⠀⠀⠈</text>
+    <text x="58" y="198">⣿⣿⠀⠀⠀⠘⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⣹</text>
+    <text x="58" y="226">⣿⣿⠀⠀⠀⠀⣿⣿⡿⠿⠛⠻⣿⣿⣿⣿⡿⠟⠁⠈⠀⠉⠻⡆⠀⠀⠀⣿</text>
+    <text x="58" y="254">⣿⣯⠄⠂⠀⠀⣿⡋⠀⢀⠀⠀⠀⠉⣿⣿⡀⠀⠀⠘⠓⣠⣶⣿⡀⠀⠀⠘</text>
+    <text x="58" y="282">⣿⣫⡆⠀⠀⢀⣿⣷⣶⣄⠀⢀⣤⣴⣿⣿⣿⣶⣄⠀⣴⣿⣿⣿⠁⠀⠀⠀⠘</text>
+    <text x="58" y="310">⣿⣿⠁⠀⠀⡤⠙⢿⣿⣿⣷⣾⣿⡿⣿⣿⢿⠿⣿⣧⣿⣿⡿⢣⠀⠀⠀⠀⢠</text>
+    <text x="58" y="338">⣷⣌⠈⠀⠀⠀⠀⣆⠈⡉⢹⣿⣿⣆⡀⠀⠀⢠⣿⣿⣿⡿⢃⣼⠀⠀⠀⠀⣸</text>
+    <text x="58" y="366">⣿⣿⡇⠀⠀⠀⠀⠙⢿⣿⣆⠈⠛⠛⠛⠀⠀⠈⠉⠁⠀⢠⣿⠇⠀⠀⠀⠹</text>
+    <text x="58" y="394">⣿⡫⠀⠀⠁⠀⠀⠀⠈⠻⣿⢢⣄⠀⠀⠀⠀⠀⣀⣠⣾⡾⠋⠀⠀⠀⠀⢀⠴⠋</text>
+    <text x="58" y="422">⣿⣁⠄⠀⠀⠀⣀⠀⠀⠀⠈⠛⠿⣿⣿⣿⣿⣿⠿⡿⠋⠀⠀⠀⠀⠀⣀⠬⠆⢀</text>
+    <text x="58" y="450">⣿⣿⣧⣄⠀⠀⠉⠀⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠠⠙</text>
   </g>
 
   <g class="mono">
