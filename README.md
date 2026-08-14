@@ -13,6 +13,10 @@
 
 <img src="./assets/developer-console.svg" alt="Akshat developer console" width="100%" />
 
+<br />
+
+<img src="./assets/ascii-identity.svg" alt="Akshat ASCII identity terminal" width="100%" />
+
 ## About
 
 I am a developer who enjoys taking ideas from rough sketches to working software. My interests sit at the intersection of **product engineering**, **AI-powered experiences**, and **developer tools**—with a constant focus on clarity, usefulness, and craft.
