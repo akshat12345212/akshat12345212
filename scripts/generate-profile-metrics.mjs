@@ -158,5 +158,6 @@ const svg = `<svg width="1200" height="470" viewBox="0 0 1200 470" fill="none" x
 </svg>`;
 
 await mkdir("assets", { recursive: true });
-await writeFile("assets/live-metrics.svg", svg, "utf8");
+const normalizedSvg = svg.replace(/[ \t]+$/gm, "");
+await writeFile("assets/live-metrics.svg", normalizedSvg, "utf8");
 console.log(`Generated assets/live-metrics.svg for ${login}`);
