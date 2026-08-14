@@ -1,0 +1,44 @@
+<svg width="1100" height="430" viewBox="0 0 1100 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="border" x1="50" y1="0" x2="1050" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06B6D4"/>
+      <stop offset="0.48" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+    <linearGradient id="title" x1="80" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="0.55" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#F9A8D4"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="1098" height="428" rx="23" fill="#080B14" stroke="url(#border)" stroke-width="2"/>
+  <rect x="25" y="23" width="1050" height="384" rx="16" fill="#0B1020" stroke="#1E293B"/>
+  <circle cx="58" cy="53" r="7" fill="#FB7185"/>
+  <circle cx="82" cy="53" r="7" fill="#FBBF24"/>
+  <circle cx="106" cy="53" r="7" fill="#34D399"/>
+  <text x="550" y="59" text-anchor="middle" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">akshat@github — developer console</text>
+  <path d="M25 82H1075" stroke="#1E293B"/>
+
+  <circle cx="940" cy="198" r="92" fill="#8B5CF6" fill-opacity="0.12" filter="url(#glow)"/>
+  <circle cx="940" cy="198" r="68" stroke="#8B5CF6" stroke-opacity="0.45"/>
+  <circle cx="940" cy="198" r="48" stroke="#06B6D4" stroke-opacity="0.35"/>
+  <path d="M893 203L922 232L986 168" stroke="url(#border)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="62" y="126" fill="#22D3EE" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17">akshat@github:~$</text>
+  <text x="256" y="126" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17">whoami</text>
+  <text x="62" y="174" fill="url(#title)" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="31" font-weight="700">AKSHAT X GUPTA</text>
+  <text x="62" y="207" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17">Software Developer / Builder / AI Explorer</text>
+
+  <text x="62" y="255" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15">FOCUS</text>
+  <text x="180" y="255" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15">product engineering · applied AI · developer tools</text>
+  <text x="62" y="290" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15">LANGUAGES</text>
+  <text x="180" y="290" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15">TypeScript · Java · Python · JavaScript · C++</text>
+  <text x="62" y="325" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15">GITHUB</text>
+  <text x="180" y="325" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15">8 public repos · 6 stars earned</text>
+  <text x="62" y="360" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15">STATUS</text>
+  <text x="180" y="360" fill="#34D399" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15">● building thoughtful software</text>
+</svg>
