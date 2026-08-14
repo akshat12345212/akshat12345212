@@ -1,14 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.png" alt="Midnight neon developer banner" width="100%" />
-
-<h1>Akshat X Gupta</h1>
-
-<p><strong>Software Developer &nbsp;|&nbsp; Builder &nbsp;|&nbsp; AI Explorer</strong></p>
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=Turning+ideas+into+useful+software;Building+clean+products+and+developer+tools;Exploring+AI%2C+systems%2C+and+better+engineering" alt="Animated introduction" />
-</p>
+<img src="./assets/animated-header.svg" alt="Akshat X Gupta animated developer header" width="100%" />
 
 <p>
   <a href="https://github.com/akshat12345212"><img src="https://img.shields.io/badge/GitHub-akshat12345212-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
@@ -64,12 +56,7 @@ currently:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akshat12345212&show_icons=true&theme=transparent&hide_border=true&title_color=8b5cf6&text_color=94a3b8&icon_color=06b6d4&ring_color=8b5cf6&rank_icon=github" alt="GitHub overview statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat12345212&layout=compact&theme=transparent&hide_border=true&title_color=8b5cf6&text_color=94a3b8&langs_count=8" alt="Most used languages" />
-
-<img width="70%" src="https://streak-stats.demolab.com?user=akshat12345212&theme=transparent&hide_border=true&ring=8B5CF6&fire=EC4899&currStreakLabel=06B6D4&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="Contribution streak" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=akshat12345212&bg_color=00000000&color=94a3b8&line=8b5cf6&point=06b6d4&area=true&hide_border=true" alt="Contribution activity graph" />
+<img width="100%" src="./assets/live-metrics.svg" alt="Live GitHub metrics, languages, streak, and contribution calendar" />
 
 </div>
 
