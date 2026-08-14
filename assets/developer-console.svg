@@ -1,4 +1,4 @@
-<!-- <svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="edge" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
       <stop stop-color="#22D3EE"/>
@@ -84,4 +84,4 @@
   <rect x="26" y="100" width="1148" height="1" fill="url(#scan)" opacity="0.5">
     <animate attributeName="y" values="100;490;100" dur="9s" repeatCount="indefinite"/>
   </rect>
-</svg> -->
+</svg>
